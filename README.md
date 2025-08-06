@@ -67,23 +67,6 @@ class RohitMaity:
 
 ---
 
-## 🏆 **ACHIEVEMENT MATRIX**
-
-<div align="center">
-  
-| 🎯 **METRIC** | 📊 **ACHIEVEMENT** |
-|:-------------:|:------------------:|
-| **🔬 Research Papers** | `Contributing to Publications` |
-| **💻 Project Scale** | `1M+ Data Points Processed` |
-| **⚡ Model Accuracy** | `95%+ Recommendation Precision` |
-| **🚀 Performance Boost** | `25% Deployment Efficiency` |
-| **👥 Team Collaboration** | `16-Member Development Teams` |
-| **🎯 Certifications** | `AWS AI Practitioner + ML Specialization` |
-
-</div>
-
----
-
 ## 🛸 **PROJECT SHOWCASE**
 
 <details>
