@@ -19,7 +19,7 @@
 
 ---
 
-## 🔮 **CURRENT FOCUS** 
+## **CURRENT FOCUS** 
 
 ```python
 class RohitMaity:
@@ -70,7 +70,7 @@ class RohitMaity:
 ## 🛸 **PROJECT SHOWCASE**
 
 <details>
-<summary><b>🧠 Generative AI Text Summarization</b> | <i>State-of-the-art PEGASUS Implementation</i></summary>
+<summary><b> Generative AI Text Summarization</b> | <i>State-of-the-art PEGASUS Implementation</i></summary>
 
 ```yaml
 Technology Stack: PEGASUS Transformer, PyTorch, NLTK, GPU Acceleration
@@ -82,7 +82,7 @@ Impact: Scalable abstractive summarization pipeline
 </details>
 
 <details>
-<summary><b>🎮 Social Deduction AI</b> | <i>LLM-Powered Reasoning Algorithms</i></summary>
+<summary><b> Social Deduction AI</b> | <i>LLM-Powered Reasoning Algorithms</i></summary>
 
 ```yaml
 Technology Stack: LLMs, Cognitive Models, Flask, FastAPI, Socket.IO
@@ -107,7 +107,7 @@ Application: AI-driven medical imaging diagnostics
 
 ---
 
-## 📈 **GITHUB ANALYTICS**
+## **GITHUB ANALYTICS**
 
 <div align="center">
   
@@ -119,7 +119,7 @@ Application: AI-driven medical imaging diagnostics
 
 ---
 
-## 🎯 **RESEARCH INTERESTS & VISION**
+## **RESEARCH INTERESTS & VISION**
 
 <div align="center">
 
@@ -148,11 +148,11 @@ mindmap
 
 ---
 
-## 🌐 **CONNECT & COLLABORATE**
+## **CONNECT & COLLABORATE**
 
 <div align="center">
 
-### 💫 *"Building bridges between artificial and human intelligence"* 💫
+###  *"Building bridges between artificial and human intelligence"* 
 
 [![Portfolio](https://img.shields.io/badge/🌟%20Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&labelColor=0A0A0A)](https://your-portfolio.com)
 [![Research](https://img.shields.io/badge/📚%20Research-Publications-4CAF50?style=for-the-badge&labelColor=0A0A0A)](https://scholar.google.com)
@@ -165,7 +165,15 @@ mindmap
 </div>
 
 ---
+<div align="center">
+
+![snake gif](https://github.com/TheHydrator/TheHydrator/blob/output/ocean.gif)
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitmaity&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </div>
+
