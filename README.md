@@ -1,5 +1,4 @@
-[media pointer="file-service://file-CbEgk7ZH86Gweh9FZtbFek"]
-# <div align="center">🚀 **ROHIT G. MAITY** 🚀</div>
+# <div align="center"> **ROHIT G. MAITY** </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Cognitive+Modeling+%7C+Computer+Vision;Building+the+Future+with+Intelligence" alt="Typing SVG" />
@@ -9,7 +8,7 @@
 
 <div align="center">
   
-### 🌟 **NEURAL NETWORK ARCHITECT** • **DATA SCIENTIST** • **AI RESEARCHER** 🌟
+### **NEURAL NETWORK ARCHITECT** • **DATA SCIENTIST** • **AI RESEARCHER** 
 
 [![Chicago](https://img.shields.io/badge/📍%20Location-Chicago,%20IL-00D4FF?style=for-the-badge&labelColor=0A0A0A)](https://maps.google.com/?q=Chicago,IL)
 [![Email](https://img.shields.io/badge/📧%20Email-maityrohit99@gmail.com-FF6B6B?style=for-the-badge&labelColor=0A0A0A)](mailto:maityrohit99@gmail.com)
