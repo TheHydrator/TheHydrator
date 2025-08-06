@@ -1,7 +1,7 @@
 # <div align="center">🚀 **ROHIT G. MAITY** 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Cognitive+Modeling+%7C+Computer+Vision;Building+the+Future+with+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Cognitive+Modeling+%7C+Computer+Vision;Building+the+Future+with+Intelligence" alt="Typing SVG" />
 </div>
 
 ---
@@ -73,12 +73,12 @@ class RohitMaity:
   
 | 🎯 **METRIC** | 📊 **ACHIEVEMENT** |
 |:-------------:|:------------------:|
-| **🎓 Graduate GPA** | `3.75/4.0` |
 | **🔬 Research Papers** | `Contributing to Publications` |
 | **💻 Project Scale** | `1M+ Data Points Processed` |
 | **⚡ Model Accuracy** | `95%+ Recommendation Precision` |
 | **🚀 Performance Boost** | `25% Deployment Efficiency` |
 | **👥 Team Collaboration** | `16-Member Development Teams` |
+| **🎯 Certifications** | `AWS AI Practitioner + ML Specialization` |
 
 </div>
 
