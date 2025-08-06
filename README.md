@@ -115,8 +115,6 @@ Application: AI-driven medical imaging diagnostics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmaity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rohitmaity&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)
-
 ![Rohit's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitmaity&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&hide_border=true)
 
 </div>
