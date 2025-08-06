@@ -1,171 +1,114 @@
-# <div align="center"> **ROHIT G. MAITY** </div>
+# <div align="center">**ROHIT G. MAITY**</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Cognitive+Modeling+%7C+Computer+Vision;Building+the+Future+with+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2E3440&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Research+%7C+Machine+Learning+%7C+Computer+Vision;Cognitive+Systems+%7C+Large+Language+Models;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
-
----
 
 <div align="center">
   
-### **NEURAL NETWORK ARCHITECT** • **DATA SCIENTIST** • **AI RESEARCHER** 
+**AI Research Scientist** • **Machine Learning Engineer** • **Data Scientist**
 
-[![Chicago](https://img.shields.io/badge/📍%20Location-Chicago,%20IL-00D4FF?style=for-the-badge&labelColor=0A0A0A)](https://maps.google.com/?q=Chicago,IL)
-[![Email](https://img.shields.io/badge/📧%20Email-maityrohit99@gmail.com-FF6B6B?style=for-the-badge&labelColor=0A0A0A)](mailto:maityrohit99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0A0A0A)](https://linkedin.com/in/rohit-maity)
-[![GitHub](https://img.shields.io/badge/⚡%20GitHub-Follow-181717?style=for-the-badge&labelColor=0A0A0A)](https://github.com/rohitmaity)
-
-</div>
-
----
-
-## 🔮 **CURRENT FOCUS** 
-
-```python
-class RohitMaity:
-    def __init__(self):
-        self.current_position = "AI Researcher @ DePaul University"
-        self.research_area = "Foot Posture Index Analysis"
-        self.passion = ["Cognitive Modeling", "LLMs", "Computer Vision"]
-        self.mission = "Bridging AI and Human Intelligence"
-    
-    def current_projects(self):
-        return {
-            "Social Deduction AI": "LLM-powered reasoning algorithms",
-            "Foot Posture Research": "Advanced biomechanical analysis",
-            "Multi-Agent Systems": "Cognitive modeling in games"
-        }
-```
-
----
-
-## ⚡ **TECHNICAL ARSENAL**
-
-<div align="center">
-
-### 🧮 **CORE LANGUAGES**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🤖 **AI/ML FRAMEWORKS**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-
-### 🔬 **SPECIALIZED TOOLS**
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+[![Chicago](https://img.shields.io/badge/📍_Chicago,_IL-2E3440?style=flat-square&labelColor=ECEFF4)](https://maps.google.com/?q=Chicago,IL)
+[![Email](https://img.shields.io/badge/📧_maityrohit99@gmail.com-5E81AC?style=flat-square&labelColor=ECEFF4)](mailto:maityrohit99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&labelColor=ECEFF4)](https://linkedin.com/in/rohit-maity)
+[![GitHub](https://img.shields.io/badge/⚡_GitHub-181717?style=flat-square&labelColor=ECEFF4)](https://github.com/rohitmaity)
 
 </div>
 
 ---
 
-## 🛸 **PROJECT SHOWCASE**
+## Current Research
 
-<details>
-<summary><b>🧠 Generative AI Text Summarization</b> | <i>State-of-the-art PEGASUS Implementation</i></summary>
+**AI Researcher** @ DePaul University  
+*Biomechanical Analysis & Foot Posture Index Research*
 
-```yaml
-Technology Stack: PEGASUS Transformer, PyTorch, NLTK, GPU Acceleration
-Dataset: SAMSum (16,300+ dialogues)
-Performance: High ROUGE scores across all metrics
-Innovation: 2x processing speed improvement with batch inference
-Impact: Scalable abstractive summarization pipeline
-```
-</details>
+**Data Scientist Intern** @ Ideatrix Cogn AI Lab Corp  
+*Multi-agent reasoning systems using Large Language Models for social deduction games*
 
-<details>
-<summary><b>🎮 Social Deduction AI</b> | <i>LLM-Powered Reasoning Algorithms</i></summary>
-
-```yaml
-Technology Stack: LLMs, Cognitive Models, Flask, FastAPI, Socket.IO
-Complexity: 12+ character types, 6+ game phases
-Architecture: Multi-agent belief dynamics modeling
-Scale: 100+ concurrent sessions support
-Research Areas: Game theory, Social neuroscience, Deception modeling
-```
-</details>
-
-<details>
-<summary><b>🔍 Medical Image Analysis</b> | <i>LIDC Dataset CT Scan Classification</i></summary>
-
-```yaml
-Technology Stack: CNNs, VAE, Statistical Analysis
-Dataset: 2,250+ CT scan images
-Discovery: 70% pattern recognition in spiculated nodules
-Method: Pixel intensity distribution analysis
-Application: AI-driven medical imaging diagnostics
-```
-</details>
+**Research Focus Areas:**
+- Cognitive modeling and belief dynamics in multi-agent systems
+- Computer vision applications in medical imaging and biomechanical analysis
+- Large language model reasoning and decision-making algorithms
+- Statistical modeling and Bayesian inference for healthcare applications
 
 ---
 
-## 📈 **GITHUB ANALYTICS**
+## Technical Expertise
 
-<div align="center">
-  
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitmaity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
+**Programming Languages:**  
+Python • Java • C++ • R • JavaScript • SQL
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmaity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+**Machine Learning & AI:**  
+TensorFlow • PyTorch • Scikit-learn • XGBoost • HuggingFace Transformers • OpenCV • MediaPipe
 
-</div>
+**Data & Analytics:**  
+Pandas • NumPy • Statistical Analysis • Bayesian Inference • Data Pipeline Engineering
 
----
-
-## 🎯 **RESEARCH INTERESTS & VISION**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((AI Research))
-    Cognitive Modeling
-      Human Behavior Simulation
-      Belief Dynamics
-      Multi-Agent Systems
-    Computer Vision
-      Medical Imaging
-      Biomechanical Analysis
-      Pattern Recognition
-    Large Language Models
-      Reasoning Algorithms
-      Social Deduction
-      Conversational AI
-    Future Applications
-      Healthcare Innovation
-      Human-AI Collaboration
-      Ethical AI Development
-```
-
-</div>
+**Infrastructure & Deployment:**  
+Docker • Kubernetes • CI/CD • AWS • Google Cloud Platform • Git
 
 ---
 
-## 🌐 **CONNECT & COLLABORATE**
+## Selected Projects
+
+**Generative AI Text Summarization**  
+*Built abstractive dialogue summarization pipeline using PEGASUS transformer on 16,300+ dialogues from SAMSum dataset. Achieved high ROUGE scores with 2x processing speed improvement through GPU-accelerated batch inference.*
+
+**Social Deduction AI Systems**  
+*Developed LLM-powered reasoning algorithms for multi-agent games involving 12+ character types and 6+ game phases. Applied game theory and cognitive science principles to model belief dynamics and human-like deception.*
+
+**Medical Image Analysis**  
+*Conducted advanced analysis on 2,250+ CT scan images from LIDC dataset for spiculated nodule classification. Implemented pixel intensity distribution analysis revealing patterns in 70% of cases, contributing to AI-driven diagnostic algorithms.*
+
+**Scalable Recommendation Systems**  
+*Built content-based and collaborative filtering systems processing 1.1M+ ratings across 270K+ books and 278K+ users, achieving 95%+ recommendation precision through advanced similarity algorithms.*
+
+---
+
+## Publications & Research
+
+Contributing to ongoing research publications in AI-driven medical imaging and cognitive modeling systems. Research presentations at academic conferences focusing on multi-agent belief dynamics and computer vision applications in healthcare.
+
+---
+
+## Education & Certifications
+
+**Master of Artificial Intelligence** • DePaul University • GPA: 3.75/4.0  
+**Bachelor of Engineering** • University of Mumbai  
+
+**AWS Certified AI Practitioner** • Amazon Web Services  
+**Machine Learning Specialization** • Stanford University & DeepLearning.AI
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-### 💫 *"Building bridges between artificial and human intelligence"* 💫
+### Contribution Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitmaity&show_icons=true&theme=nord&hide_border=true&bg_color=ECEFF4&title_color=2E3440&icon_color=5E81AC&text_color=2E3440&count_private=true&include_all_commits=true)
 
-[![Portfolio](https://img.shields.io/badge/🌟%20Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&labelColor=0A0A0A)](https://your-portfolio.com)
-[![Research](https://img.shields.io/badge/📚%20Research-Publications-4CAF50?style=for-the-badge&labelColor=0A0A0A)](https://scholar.google.com)
-[![Coffee Chat](https://img.shields.io/badge/☕%20Coffee%20Chat-Let's%20Talk%20AI-FFD700?style=for-the-badge&labelColor=0A0A0A)](mailto:maityrohit99@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmaity&layout=compact&theme=nord&hide_border=true&bg_color=ECEFF4&title_color=2E3440&text_color=2E3440&langs_count=8)
 
----
+### Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitmaity&theme=nord&bg_color=ECEFF4&color=2E3440&line=5E81AC&point=BF616A&area=true&hide_border=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+### Contribution Snake
+![GitHub Snake](https://raw.githubusercontent.com/rohitmaity/rohitmaity/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/rohitmaity/rohitmaity/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitmaity&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+
+**Research Interests:** Cognitive AI • Multi-agent Systems • Computer Vision • Healthcare AI • Human-AI Collaboration
+
+[**Portfolio**](https://your-portfolio.com) • [**Google Scholar**](https://scholar.google.com) • [**Research Gate**](https://researchgate.net)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitmaity&label=Profile+Views&color=5E81AC&style=flat" alt="Profile Views" />
 </div>
