@@ -39,7 +39,7 @@ class RohitMaity:
 
 ---
 
-## ⚡ **TECHNICAL ARSENAL**
+## **TECHNICAL ARSENAL**
 
 <div align="center">
 
@@ -67,7 +67,7 @@ class RohitMaity:
 
 ---
 
-## 🛸 **PROJECT SHOWCASE**
+## **PROJECT SHOWCASE**
 
 <details>
 <summary><b> Generative AI Text Summarization</b> | <i>State-of-the-art PEGASUS Implementation</i></summary>
@@ -94,7 +94,7 @@ Research Areas: Game theory, Social neuroscience, Deception modeling
 </details>
 
 <details>
-<summary><b>🔍 Medical Image Analysis</b> | <i>LIDC Dataset CT Scan Classification</i></summary>
+<summary><b> Medical Image Analysis</b> | <i>LIDC Dataset CT Scan Classification</i></summary>
 
 ```yaml
 Technology Stack: CNNs, VAE, Statistical Analysis
